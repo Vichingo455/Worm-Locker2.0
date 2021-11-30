@@ -1,4 +1,4 @@
-# WORM LOCKER2.0 | TROJAN-RANSOM.WIN32
+# WORM LOCKER 2.0 | TROJAN-RANSOM.WIN32
 ******************************************************
 If you damage your computer or another with this virus,
 I am not responsible for your actions. This source code 
@@ -7,7 +7,7 @@ anyone to damage this malicious code. Dissemination of
 ransomware and other malicious software is against the 
 law and is a criminal offense.
 *******************************************************
-Source code creator: Clutter Tech
+Creator: Clutter Tech
 Written by: C#
 Date of creation: 12.12.2020
 *******************************************************
