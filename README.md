@@ -1,7 +1,7 @@
 # WORM LOCKER 2.0 | TROJAN-RANSOM.WIN32
 ******************************************************
 If you damage your computer or another with this virus,
-I am not responsible for your actions. This source code 
+I am not responsible for your actions. This trojan and its source code 
 is for educational purposes only and does not encourage 
 anyone to damage this malicious code. Dissemination of 
 ransomware and other malicious software is against the 
