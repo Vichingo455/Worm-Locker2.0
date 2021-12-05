@@ -8,7 +8,9 @@ ransomware and other malicious software is against the
 law and is a criminal offense.
 *******************************************************
 Creator: Clutter Tech
+
 Written by: C#
+
 Date of creation: 12.12.2020
 *******************************************************
 Bugs: If a file such as an exe file is running on the 
