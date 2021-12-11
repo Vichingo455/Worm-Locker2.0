@@ -1,5 +1,7 @@
 # WORM LOCKER 2.0 | TROJAN-RANSOM.WIN32
 ******************************************************
+[![CodeQL](https://github.com/Vichingo455/Worm-Locker2.0/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Vichingo455/Worm-Locker2.0/actions/workflows/codeql-analysis.yml)
+
 If you damage your computer or another with this virus,
 I am not responsible for your actions. This trojan and its source code 
 is for educational purposes only and does not encourage 
